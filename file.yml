@@ -4,3 +4,8 @@
     tasks:
     - name: to create a file
       yum: name=httpd state=installed
+    - name: to create  file 
+      file: path=/tmp/ansible state=touch
+    - name: to create directory
+      fiel: path=jenkins state=directory
+

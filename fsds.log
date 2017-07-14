@@ -1,0 +1,27 @@
+localhost | SUCCESS => {
+    "changed": true, 
+    "failed": false, 
+    "msg": "", 
+    "rc": 0, 
+    "results": [
+        "Loaded plugins: priorities, update-motd, upgrade-helper\nResolving Dependencies\n--> Running transaction check\n---> Package httpd.x86_64 0:2.2.32-1.9.amzn1 will be erased\n--> Finished Dependency Resolution\n\nDependencies Resolved\n\n================================================================================\n Package      Arch          Version                  Repository            Size\n================================================================================\nRemoving:\n httpd        x86_64        2.2.32-1.9.amzn1         @amzn-updates        3.1 M\n\nTransaction Summary\n================================================================================\nRemove  1 Package\n\nInstalled size: 3.1 M\nDownloading packages:\nRunning transaction check\nRunning transaction test\nTransaction test succeeded\nRunning transaction\n  Erasing    : httpd-2.2.32-1.9.amzn1.x86_64                                1/1 \n  Verifying  : httpd-2.2.32-1.9.amzn1.x86_64                                1/1 \n\nRemoved:\n  httpd.x86_64 0:2.2.32-1.9.amzn1                                               \n\nComplete!\n"
+    ]
+}
+52.66.172.250 | SUCCESS => {
+    "changed": true, 
+    "failed": false, 
+    "msg": "", 
+    "rc": 0, 
+    "results": [
+        "Loaded plugins: priorities, update-motd, upgrade-helper\nResolving Dependencies\n--> Running transaction check\n---> Package httpd.x86_64 0:2.2.32-1.9.amzn1 will be erased\n--> Finished Dependency Resolution\n\nDependencies Resolved\n\n================================================================================\n Package      Arch          Version                  Repository            Size\n================================================================================\nRemoving:\n httpd        x86_64        2.2.32-1.9.amzn1         @amzn-updates        3.1 M\n\nTransaction Summary\n================================================================================\nRemove  1 Package\n\nInstalled size: 3.1 M\nDownloading packages:\nRunning transaction check\nRunning transaction test\nTransaction test succeeded\nRunning transaction\n  Erasing    : httpd-2.2.32-1.9.amzn1.x86_64                                1/1 \n  Verifying  : httpd-2.2.32-1.9.amzn1.x86_64                                1/1 \n\nRemoved:\n  httpd.x86_64 0:2.2.32-1.9.amzn1                                               \n\nComplete!\n"
+    ]
+}
+13.126.147.70 | SUCCESS => {
+    "changed": true, 
+    "failed": false, 
+    "msg": "", 
+    "rc": 0, 
+    "results": [
+        "Loaded plugins: priorities, update-motd, upgrade-helper\nResolving Dependencies\n--> Running transaction check\n---> Package httpd.x86_64 0:2.2.32-1.9.amzn1 will be erased\n--> Finished Dependency Resolution\n\nDependencies Resolved\n\n================================================================================\n Package      Arch          Version                  Repository            Size\n================================================================================\nRemoving:\n httpd        x86_64        2.2.32-1.9.amzn1         @amzn-updates        3.1 M\n\nTransaction Summary\n================================================================================\nRemove  1 Package\n\nInstalled size: 3.1 M\nDownloading packages:\nRunning transaction check\nRunning transaction test\nTransaction test succeeded\nRunning transaction\n  Erasing    : httpd-2.2.32-1.9.amzn1.x86_64                                1/1 \n  Verifying  : httpd-2.2.32-1.9.amzn1.x86_64                                1/1 \n\nRemoved:\n  httpd.x86_64 0:2.2.32-1.9.amzn1                                               \n\nComplete!\n"
+    ]
+}

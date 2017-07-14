@@ -1,0 +1,11 @@
+
+
+
+---
+  - hosts: all
+    vars:
+    password: $1$kelly$Mi6UrOAwWe9hBzpgJf3ov0
+
+    tasks:
+     - name: to create a user
+       user: name=kelly password={{password}} 
